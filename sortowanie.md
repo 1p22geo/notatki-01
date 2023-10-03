@@ -15,7 +15,7 @@ kolejne elementy wstawiamy na właściwe miejsca, zamieniając elementy
 tabela a[8]
 
 wskażnik na jeden z nich - x* = a
-``````
+```
 
 elementy są przesuwane z prawej na lewo, są zamieniane miejscami jeśli są w złej kolejności
 
