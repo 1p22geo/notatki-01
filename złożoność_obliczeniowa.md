@@ -35,36 +35,33 @@ int sum(int[] numbers){
     return sum;
 }
 ```
-```
-f(n) = 1+(n+1)
-f(n) = n+2
 
-Złożoność - O(n)
-```
+$f(n) = 1+(n+1)$
 
-Notacja duże O
+$f(n) = n+2$
 
-Notacja theta
+#### Złożoność tego algorytmu to  O(n)
+
 
 Notacja duże O
 ---
-- O(1) - złożoność stała
+- $O(1)$ - złożoność stała
     - algorytm nie iteruje, czas wykonania nie zależy od ilości danych
-- O(n) - złożoność liniowa
+- $O(n)$ - złożoność liniowa
     - czas wykonania zależy od ilości elementów *wprost proporcjonalnie*
     - np. iteracja przez wszyskie elementy
-- O(log n) - złożoność logarytmiczna
-    - np. zależy od `log2(n)`, bo dzieli tabelę na 2 i dla każdej połówki powtarza rekurencyjnie algorytm
+- $O(log\;n)$ - złożoność logarytmiczna
+    - np. zależy od $log_2(n)$, bo dzieli tabelę na 2 i dla każdej połówki powtarza rekurencyjnie algorytm
     - *quicksort*
-- O(n log n) - złożoność liniowo-logarytmiczna
-    - zależy od `log2(n)` ale dla każdej iteracji iteruje przez wszystkie elementy jeszcze raz
+- $O(n\;log\;n)$ - złożoność liniowo-logarytmiczna
+    - zależy od $log_2(n)$ ale dla każdej iteracji iteruje przez wszystkie elementy jeszcze raz
     - *mergesort*
-- O(n*2) - złożoność kwadratowa
+- $O(n^2)$ - złożoność kwadratowa
     - iteracja przez wszystkie elementy *dla każdego elementu*
     - *bubble sort, select sort, shaker sort*
-- O(x*n) - złożoność wykładnicza
+- $O(x^n)$ - złożoność wykładnicza
     - wszystkie podzbiory tabeli
     - wszystkie możliwe funkcje między dwoma zbiorami
-- O(n!) - złożoność silni
+- $O(n!)$ - złożoność silni
     - problem komiwojażera
     - wszystkie permutacje zbioru

@@ -18,15 +18,16 @@ dobry algorytm jest:
 
 
 złożność obliczeniowa
-- 1
-- log(n)
-- n
-- n log n
-- n**2
-- n**3
-- 2**n
-- 3**n
-- n!
+
+- $O(1)$
+- $O(log\;n)$
+- $O(n)$
+- $O(n\;log\;n)$
+- $O(n^2)$
+- $O(n^3)$
+- $O(2^n)$
+- $O(3^n)$
+- $O(n!)$
 
 ---
 

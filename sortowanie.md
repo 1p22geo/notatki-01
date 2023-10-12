@@ -11,19 +11,19 @@ kolejność jest potrzebna, elementy muszą być posortowane
 
 kolejne elementy wstawiamy na właściwe miejsca, zamieniając elementy
 
-```
-tabela a[8]
+```cpp
+int a[8]; // tabela
 
-wskażnik na jeden z nich - x* = a
+// wskażnik na jeden z nich - x* = a
 ```
 
 elementy są przesuwane z prawej na lewo, są zamieniane miejscami jeśli są w złej kolejności
 
-```
+```cpp
 x++;
 
 if(*x<*(x-1)){
-	zamień x i x-1
+	//zamień x i x-1
 }
 ```
 
