@@ -24,13 +24,15 @@
 # Mapa empatii (cokolwiek to jest)
 
 --------
-Stanisław, 14 lat
-Klasa 2 Technikum
+Stanisław, 14 lat.  
+Klasa 2 Technikum.
+
+
 Do technikum trafił przez rodziców, bo "programiści dobrze zarabiają".
-Programowaniem się nie interesuje, twierdzi, że sztuczna inteligencja to jego ulubiony język programowania.
-Dostał się do jednej z najlepszych szkół na Śląsku, bo miał dobre oceny z polskiego, geografii itp.
-Informatykę i fizykę w 8 klasie ledwo zaliczył, ale przecież świat się na komputerze nie kończy, tak?
-Od września zeszłego roku próbuje poprawić sprawdzian z fizyki no i po sześciu razach i on i nauczycielka fizyki czują już, że trzeba coś zmienić.
+Programowaniem się nie interesuje, twierdzi, że sztuczna inteligencja to jego ulubiony język programowania.  
+Dostał się do jednej z najlepszych szkół na Śląsku, bo miał dobre oceny z polskiego, geografii itp.  
+Informatykę i fizykę w 8 klasie ledwo zaliczył, ale przecież świat się na komputerze nie kończy, tak?  
+Od września zeszłego roku próbuje poprawić sprawdzian z fizyki no i po sześciu razach i on i nauczycielka fizyki czują już, że trzeba coś zmienić.  
 
 ### Czego oczekuję od aplikacji?
 - pomocy w przygotowaniu do sprawdzianu
@@ -55,12 +57,14 @@ Od września zeszłego roku próbuje poprawić sprawdzian z fizyki no i po sześ
 
 
 --------
-Karol, 17 lat
+Karol, 17 lat.  
 Klasa 4 Technikum
-Absolutny fanatyk fizyki i matematyki. W wieku 10 lat samodzielnie udowodnił twierdzenie Pitagorasa, nie patrząc na istniejące już dowody. Wymyślił to wszystko samodzielnie, nawet jeśli to już istniało.
-Dostał się do szkoły, bo "do informatyki to tylko matematyka i angielski wystarczy".
-Przedmioty zawodowe mało go interesują, ale ożywia się na lekcjach fizyki.
-Dostał ostatnio jedynkę z **baz danych**, i nawet samobójstwo nie uratuje go od poprawy.
+
+
+Absolutny fanatyk fizyki i matematyki. W wieku 10 lat samodzielnie udowodnił twierdzenie Pitagorasa, nie patrząc na istniejące już dowody. Wymyślił to wszystko samodzielnie, nawet jeśli to już istniało.  
+Dostał się do szkoły, bo "do informatyki to tylko matematyka i angielski wystarczy".  
+Przedmioty zawodowe mało go interesują, ale ożywia się na lekcjach fizyki.  
+Dostał ostatnio jedynkę z **baz danych**, i nawet samobójstwo nie uratuje go od poprawy.  
 
 ### Czego oczekuję od aplikacji?
 - ludzi chętnych do pomocy
