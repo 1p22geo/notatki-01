@@ -83,3 +83,16 @@ Dostał ostatnio jedynkę z **baz danych**, i nawet samobójstwo nie uratuje go 
 - zakładam konto
 - szukam zapytań o pomoc od ludzi którzy są trochę na bakier z matematyką
 - wysyłam ogłoszenie, wpisując przedmiot (projektowanie i administrowanie bazy danych), zakres (4 klasa technik-programista), i ewentualnie inne dane
+
+# Potencjalne problemy
+- brak aktywnego sposobu uczenia się
+	- udostępnianie materiałów do nauki
+	- udostępnianie ostatnich sprawdzianów
+	- quizy żeby sprawszić swoją wiedzę
+- skomplikowana obsługa
+	- aplikacja musi być intuicyjna w obsłudze
+- czy oddana pomoc jest efektywna
+	- oddawanie punktów za udzielone korepetycje
+	- podać sumę punktów, zamiast średniej gwiazdek
+	- korepetytor wysyła oferty, a użytkownicy je akceptują
+	- użytkownicy wysyłają prośby, a korepetytor je akceptuje
