@@ -1,3 +1,3 @@
 # Opis projektu
 
-Celem projektu jest [placeholder]
+Celem projektu jest stworzenie aplikacji pozwalającej uczniom wzajemnie pomagać sobie w nauce, przez udzielanie i pobieranie korepetycji. Każdy użytkownik będzie jednocześnie pobierającym i udzielającym korepetycji. Właściwe udzielanie korepetycji (lub nawet ustalanie terminów) nie będzie działo się w naszej aplikacji - użytkownicy użyją do tego istniejących komunikatorów, do których są już przyzwyczajeni - bezpieczniejszych i szybszych niż cokolwiek co stworzyli uczniowie 2P. Aplikacja pozwoli użytkownikom dodać do swojego profilu linki do mediów społecznościowych i komunikatorów.
