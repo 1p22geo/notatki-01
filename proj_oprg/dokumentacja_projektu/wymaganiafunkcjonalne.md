@@ -1,0 +1,3 @@
+# Wymagania funkcjonalne
+
+[placeholder]

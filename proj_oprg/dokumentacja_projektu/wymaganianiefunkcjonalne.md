@@ -1,0 +1,3 @@
+# Wymagania niefunkcjonalne
+
+[placeholder]
