@@ -9,3 +9,4 @@
 - Aktorzy (use case diagram): [ucd.jpg](./ucd.jpg)
     - drugi diagram dla
 - diagram aktywności
+- diagram klas
