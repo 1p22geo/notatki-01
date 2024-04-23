@@ -7,6 +7,6 @@
 - [Wymagania niefunkcjonalne](./wymaganianiefunkcjonalne.md)
 - Wycena: 0zł <!-- + 1 knoppers -->
 - Aktorzy (use case diagram): [ucd.jpg](./ucd.jpg)
-    - drugi diagram dla
-- diagram aktywności
+    - drugi diagram dla logowania
+- diagram aktywności (logowanie)
 - diagram klas
